@@ -38,8 +38,6 @@
           <target>1.7</target>
         </configuration>
       </plugin>
-             
-<reporting>
    <plugins>
  <groupId>org.apache.maven.plugins</groupId>
  <artifactId>maven-resources-plugin</artifactId>
@@ -48,7 +46,6 @@
    <encoding>UTF-8</encoding>
  </configuration>
    </plugins>
- </reporting> 
              
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
