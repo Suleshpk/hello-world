@@ -15,8 +15,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-   <label for="address"><b>Address</b></label>
-    <input type="address" placeholder="address" name="address" id="address" required>
+   <label for="City"><b>City</b></label>
+    <input type="city" placeholder="city" name="city" id="city" required>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
