@@ -67,35 +67,20 @@
       margin-bottom: 8px;
     }
 
-    .container input[type="text"], .container input[type="password"], .container input[type="email"], .container textarea {
-      width: 100%;
-      padding: 12px;
-      margin: 5px 0 15px 0;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    }
-
-    .registerbtn {
-      background-color: #0d6efd;
-      color: white;
-      padding: 14px 20px;
-      margin: 8px 0;
-      border: none;
-      cursor: pointer;
-      width: 100%;
-      border-radius: 4px;
-      font-size: 16px;
-    }
-
-    .registerbtn:hover {
-      background-color: #0056b3;
-    }
-
     footer {
       text-align: center;
       padding: 20px;
       background-color: #333;
       color: #fff;
+    }
+
+    a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -171,28 +156,9 @@
 </section>
 
 <section id="contact">
-  <h2>Contact & Register</h2>
-  <p>Email: <a href="mailto:suleshpk@gmail.com">suleshpk@gmail.com</a></p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/sulesh-pk-860721156" target="_blank">Sulesh PK</a></p>
-  
-  <form action="action_page.php">
-    <div class="container">
-      <h3>Register</h3>
-      <label for="email"><b>Email</b></label>
-      <input type="email" placeholder="Enter Email" name="email" id="email" required>
-
-      <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-
-      <label for="psw-repeat"><b>Repeat Password</b></label>
-      <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-
-      <label for="address"><b>Address</b></label>
-      <input type="text" placeholder="Enter Address" name="address" id="address" required>
-
-      <button type="submit" class="registerbtn">Register</button>
-    </div>
-  </form>
+  <h2>Contact</h2>
+  <p><strong>Email:</strong> <a href="mailto:suleshpk@gmail.com">suleshpk@gmail.com</a></p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sulesh-pk-860721156" target="_blank">linkedin.com/in/sulesh-pk-860721156</a></p>
 </section>
 
 <footer>
