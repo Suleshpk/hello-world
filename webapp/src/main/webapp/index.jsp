@@ -31,6 +31,17 @@
       opacity: 0.9;
     }
 
+    /* Profile photo styling */
+    .profile-photo {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #fff;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      margin-bottom: 15px;
+    }
+
     nav {
       background-color: #222;
       display: flex;
@@ -94,6 +105,8 @@
 <body>
 
 <header>
+  <img src="https://raw.githubusercontent.com/Suleshpk/hello-world/master/A%2018145%20SULAESH%20copy.jpg" 
+       alt="Sulesh PK" class="profile-photo">
   <h1>Sulesh PK</h1>
   <p>Infrastructure and Operations | Bengaluru, Karnataka, India</p>
 </header>
