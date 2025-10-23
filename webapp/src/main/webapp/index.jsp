@@ -88,3 +88,128 @@
     }
     a:hover {
       text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sulesh PK</h1>
+  <p>Infrastructure and Operations | Bengaluru, Karnataka, India</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#education">Education</a>
+  <a href="#certifications">Certifications</a>
+  <a href="#experience">Experience</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    Experienced IT professional specializing in cloud-based infrastructure, technical assistance, and troubleshooting.
+    Strong expertise in monitoring, cybersecurity, and process optimization. Passionate about automation and improving operational efficiency.
+  </p>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <div>
+      <h3>Cloud & Infrastructure</h3>
+      <ul>
+        <li>Azure</li>
+        <li>Cloud Migration</li>
+        <li>Centreon Monitoring</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Networking & Security</h3>
+      <ul>
+        <li>VPN</li>
+        <li>Cisco / Meraki</li>
+        <li>Firewalls</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Automation & Scripting</h3>
+      <ul>
+        <li>CI/CD (Git, Jenkins, Ansible, Kubernetes)</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Technical Support</h3>
+      <ul>
+        <li>Troubleshooting</li>
+        <li>System Documentation</li>
+        <li>Incident Management</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="education">
+  <h2>Education</h2>
+  <p><strong>Royal College of Engineering and Technology</strong><br>
+     B.Tech, Electronics and Communication Engineering (2013 – 2016)
+  </p>
+</section>
+
+<section id="certifications">
+  <h2>Certifications</h2>
+  <ul>
+    <li>CI/CD with Git, Jenkins, Ansible, Kubernetes</li>
+    <li>EKARA Advanced Certificate</li>
+    <li>Cisco Meraki Training</li>
+    <li>Centreon Lead – Operator to Administrator</li>
+  </ul>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+
+  <h3>EGIS – Monitoring and Operations Pilot (Jun 2024 – Present)</h3>
+  <ul>
+    <li>Leading On-Premise to Cloud transformation (Azure)</li>
+    <li>Ensuring 24/7 supervision of assets, responding to cyber threats</li>
+    <li>Supporting cloud migration, performance reporting, and process improvements</li>
+  </ul>
+
+  <h3>Neurones IT Asia – Information Technology Support Engineer (Apr 2023 – Jun 2024)</h3>
+  <ul>
+    <li>Troubleshooting, monitoring servers, and website scripting</li>
+    <li>Network security management, automation, and incident reduction</li>
+  </ul>
+
+  <h3>Concentrix – Technical Support Engineer (Nov 2020 – Apr 2023)</h3>
+  <ul>
+    <li>System & application troubleshooting, Cisco network support</li>
+    <li>End-user training, process documentation, performance optimization</li>
+  </ul>
+
+  <h3>Indel Money – System Administrator (Mar 2017 – Aug 2020)</h3>
+  <ul>
+    <li>Network infrastructure management, Cisco router deployment</li>
+    <li>Technical support, documentation, and troubleshooting</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <div class="contact-info">
+    <p><strong>Email:</strong> <a href="mailto:suleshpk@gmail.com">suleshpk@gmail.com</a></p>
+    <p><strong>Phone:</strong> +91 9746733904</p>
+    <p><strong>Location:</strong> Bengaluru, Karnataka, India</p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sulesh-pk-860721156/" target="_blank">linkedin.com/in/sulesh-pk-860721156</a></p>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 Sulesh PK | Designed with ❤️ for IT Infrastructure & Operations</p>
+</footer>
+
+</body>
+</html>
